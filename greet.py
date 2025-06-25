@@ -5,6 +5,6 @@ def greet(name):
 greet("Julia")
 
 def surname(surname):
-    print(f"Surname, {surname}!")
+    print(f"Nazwisko, {surname}!")
 
 surname("Grzegorowska")
