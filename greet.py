@@ -1,10 +1,4 @@
+def greet_full(name, surname):
+    print(f"Cześć, {name} {surname}!")
 
-def greet(name):
-    print(f"Cześć, {name}!")
-
-greet("Julia")
-
-def surname(surname):
-    print(f"Nazwisko, {surname}!")
-
-surname("Grzegorowska")
+greet_full("Julia", "Kowalska")
